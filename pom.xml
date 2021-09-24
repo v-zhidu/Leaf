@@ -200,4 +200,11 @@
         </plugins>
     </build>
 
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub v-zhidu Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/v-zhidu/chassis</url>
+        </repository>
+    </distributionManagement>
 </project>
