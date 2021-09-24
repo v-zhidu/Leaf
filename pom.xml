@@ -204,7 +204,7 @@
         <repository>
             <id>github</id>
             <name>GitHub v-zhidu Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/v-zhidu/chassis</url>
+            <url>https://maven.pkg.github.com/v-zhidu/Leaf</url>
         </repository>
     </distributionManagement>
 </project>
