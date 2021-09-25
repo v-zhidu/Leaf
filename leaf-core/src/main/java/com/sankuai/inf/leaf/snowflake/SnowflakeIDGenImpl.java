@@ -1,10 +1,10 @@
 package com.sankuai.inf.leaf.snowflake;
 
-import com.google.common.base.Preconditions;
 import com.sankuai.inf.leaf.IDGen;
 import com.sankuai.inf.leaf.common.Result;
 import com.sankuai.inf.leaf.common.Status;
 import com.sankuai.inf.leaf.common.Utils;
+import org.apache.curator.shaded.com.google.common.base.Preconditions;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
